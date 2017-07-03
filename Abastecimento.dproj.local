@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/07/01 13:12:56.000.880,=C:\Users\Erica\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/01 13:33:40.000.105,=C:\Users\Erica\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/07/01 13:34:25.000.319,C:\Users\Erica\Documents\RAD Studio\Projects\Unit2.pas=F:\ProjetoFortes\uObjetos.pas</Transaction>
+    <Transaction>2017/07/01 13:41:35.000.505,C:\Users\Erica\Documents\RAD Studio\Projects\Unit1.pas=F:\ProjetoFortes\uPrincipal.pas</Transaction>
+    <Transaction>2017/07/01 13:41:35.000.505,C:\Users\Erica\Documents\RAD Studio\Projects\Unit1.dfm=F:\ProjetoFortes\uPrincipal.dfm</Transaction>
+    <Transaction>2017/07/01 13:41:46.000.109,C:\Users\Erica\Documents\RAD Studio\Projects\Project1.dproj=F:\ProjetoFortes\Abastecimento.dproj</Transaction>
+    <Transaction>2017/07/01 14:06:50.000.154,=F:\ProjetoFortes\Unit1.pas</Transaction>
+    <Transaction>2017/07/01 14:08:05.000.309,F:\ProjetoFortes\Unit1.pas=F:\ProjetoFortes\uDataModule.pas</Transaction>
+    <Transaction>2017/07/01 14:08:05.000.309,F:\ProjetoFortes\Unit1.dfm=F:\ProjetoFortes\uDataModule.dfm</Transaction>
+    <Transaction>2017/07/01 21:30:17.000.443,F:\ProjetoFortes\uDataModule.pas=</Transaction>
+    <Transaction>2017/07/01 21:31:36.000.126,=F:\ProjetoFortes\uDataModule.pas</Transaction>
+    <Transaction>2017/07/02 19:35:47.000.057,=F:\ProjetoFortes\Unit1.pas</Transaction>
+    <Transaction>2017/07/02 19:36:58.000.115,F:\ProjetoFortes\urpRelatorio.dfm=F:\ProjetoFortes\Unit1.dfm</Transaction>
+    <Transaction>2017/07/02 19:36:58.000.115,F:\ProjetoFortes\urpRelatorio.pas=F:\ProjetoFortes\Unit1.pas</Transaction>
+    <Transaction>2017/07/02 20:35:17.000.122,C:\ProjetoFortes\urpRelatorio.pas=</Transaction>
+    <Transaction>2017/07/02 20:52:47.852,=C:\ProjetoFortes\Unit1.pas</Transaction>
+    <Transaction>2017/07/02 20:53:45.264,C:\ProjetoFortes\urpRelatorio.pas=C:\ProjetoFortes\Unit1.pas</Transaction>
+    <Transaction>2017/07/02 20:53:45.264,C:\ProjetoFortes\urpRelatorio.dfm=C:\ProjetoFortes\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
